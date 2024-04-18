@@ -1,0 +1,1067 @@
+{
+  "members": [
+    {
+      "slug": "john-lennon",
+      "name": "John Lennon",
+      "instruments": "Vocals",
+      "lifespan": "(1940–1980; assassinated)",
+      "birthdate": "October 9th, 1940",
+      "image": "lennon.jpeg"
+    },
+    {
+      "slug": "paul-mccartney",
+      "name": "Paul McCartney",
+      "instruments": "Vocals, bass",
+      "lifespan": "(1942–present)",
+      "birthdate": "June 18th, 1942"
+    },
+    {
+      "slug": "george-harrison",
+      "name": "George Harrison",
+      "instruments": "Guitar, vocals",
+      "lifespan": "(1943–2001)",
+      "birthdate": "February 25th, 1943"
+    },
+    {
+      "slug": "ringo-starr",
+      "name": "Ringo Starr",
+      "instruments": "Drums",
+      "lifespan": "(1940–present)",
+      "birthdate": "July 7th, 1940"
+    }
+  ],
+  "discography": [
+    {
+      "title": "Please Please Me",
+      "slug": "please-please-me",
+      "year": 1963
+    },
+    {
+      "title": "With the Beatles",
+      "slug": "with-the-beatles",
+      "year": 1963
+    },
+    {
+      "title": "A Hard Day's Night",
+      "slug": "a-hard-days-night",
+      "year": 1964
+    },
+    {
+      "title": "Beatles for Sale",
+      "slug": "beatles-for-sale",
+      "year": 1964
+    },
+    {
+      "title": "Help!",
+      "slug": "help",
+      "year": 1965
+    },
+    {
+      "title": "Rubber Soul",
+      "slug": "rubber-soul",
+      "year": 1965
+    },
+    {
+      "title": "Revolver",
+      "slug": "revolver",
+      "year": 1966
+    },
+    {
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "slug": "sgt-peppers",
+      "year": 1967
+    },
+    {
+      "title": "Magical Mystery Tour",
+      "slug": "magical-mystery-tour",
+      "year": 1967
+    },
+    {
+      "title": "The Beatles (\"The White Album\")",
+      "slug": "white-album",
+      "year": 1968
+    },
+    {
+      "title": "Yellow Submarine",
+      "slug": "yellow-submarine",
+      "year": 1969
+    },
+    {
+      "title": "Abbey Road",
+      "slug": "abbey-road",
+      "year": 1969
+    },
+    {
+      "title": "Let It Be",
+      "slug": "let-it-be",
+      "year": 1970
+    }
+  ],
+  "songs": [
+    {
+      "slug": "please-please-me",
+      "songname": "I Saw Her Standing There",
+      "runtime": "2:53"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "Misery",
+      "runtime": "1:48"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "Anna (Go To Him)",
+      "runtime": "2:57"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "Chains",
+      "runtime": "2:25"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "Boys",
+      "runtime": "2:26"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "Ask Me Why",
+      "runtime": "2:26"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "Please Please Me",
+      "runtime": "2:00"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "Love Me Do",
+      "runtime": "2:21"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "P.S. I Love You",
+      "runtime": "2:04"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "Baby It's You",
+      "runtime": "2:40"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "Do You Want To Know A Secret",
+      "runtime": "1:57"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "A Taste Of Honey",
+      "runtime": "2:03"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "There's A Place",
+      "runtime": "1:50"
+    },
+    {
+      "slug": "please-please-me",
+      "songname": "Twist And Shout",
+      "runtime": "2:35"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "It Won't Be Long",
+      "runtime": "2:13"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "All I've Got To Do",
+      "runtime": "2:02"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "All My Loving",
+      "runtime": "2:07"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "Don't Bother Me",
+      "runtime": "2:28"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "Little Child",
+      "runtime": "1:46"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "Till There Was You",
+      "runtime": "2:13"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "Please Mister Postman",
+      "runtime": "2:34"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "Roll Over Beethoven",
+      "runtime": "2:45"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "Hold Me Tight",
+      "runtime": "2:31"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "You Really Got A Hold On Me",
+      "runtime": "3:01"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "I Wanna Be Your Man",
+      "runtime": "1:59"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "Devil In Her Heart",
+      "runtime": "2:26"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "Not A Second Time",
+      "runtime": "2:06"
+    },
+    {
+      "slug": "with-the-beatles",
+      "songname": "Money (That's What I Want",
+      "runtime": "2:49"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "A Hard Day's Night",
+      "runtime": "2:34"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "I Should Have Known Better",
+      "runtime": "2:43"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "If I Fell",
+      "runtime": "2:19"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "I'm Happy Just To Dance With You",
+      "runtime": "1:56"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "And I Love Her",
+      "runtime": "2:29"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "Tell Me Why",
+      "runtime": "2:08"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "Can't Buy Me Love",
+      "runtime": "2:11"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "Any Time At All",
+      "runtime": "2:11"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "I'll Cry Instead",
+      "runtime": "1:45"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "Things We Said Today",
+      "runtime": "2:35"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "When I Get Home",
+      "runtime": "2:16"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "You Can't Do That",
+      "runtime": "2:34"
+    },
+    {
+      "slug": "a-hard-days-night",
+      "songname": "I'll Be Back",
+      "runtime": "2:24"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "No Reply",
+      "runtime": "2:16"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "I'm A Loser",
+      "runtime": "2:30"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "Baby's In Black",
+      "runtime": "2:04"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "Rock And Roll Music",
+      "runtime": "2:31"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "I'll Follow The Sun",
+      "runtime": "1:48"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "Mr Moonlight",
+      "runtime": "2:38"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "Kansas City / Hey-Hey-Hey-Hey - Medley /",
+      "runtime": "2:38"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "Eight Days A Week",
+      "runtime": "2:43"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "Words Of Love",
+      "runtime": "2:04"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "Honey Don't",
+      "runtime": "2:57"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "Every Little Thing",
+      "runtime": "2:03"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "I Don't Want To Spoil The Party",
+      "runtime": "2:34"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "What You're Doing",
+      "runtime": "2:30"
+    },
+    {
+      "slug": "beatles-for-sale",
+      "songname": "Everybody's Trying To Be My Baby",
+      "runtime": "2:26"
+    },
+    {
+      "slug": "help",
+      "songname": "Help!",
+      "runtime": "2:19"
+    },
+    {
+      "slug": "help",
+      "songname": "The Night Before",
+      "runtime": "2:34"
+    },
+    {
+      "slug": "help",
+      "songname": "You've Got To Hide Your Love Away",
+      "runtime": "2:09"
+    },
+    {
+      "slug": "help",
+      "songname": "I Need You",
+      "runtime": "2:28"
+    },
+    {
+      "slug": "help",
+      "songname": "Another Girl",
+      "runtime": "2:05"
+    },
+    {
+      "slug": "help",
+      "songname": "You're Going To Lose That Girl",
+      "runtime": "2:18"
+    },
+    {
+      "slug": "help",
+      "songname": "Ticket To Ride",
+      "runtime": "3:09"
+    },
+    {
+      "slug": "help",
+      "songname": "Act Naturally",
+      "runtime": "2:30"
+    },
+    {
+      "slug": "help",
+      "songname": "It's Only Love",
+      "runtime": "1:56"
+    },
+    {
+      "slug": "help",
+      "songname": "You Like Me Too Much",
+      "runtime": "2:36"
+    },
+    {
+      "slug": "help",
+      "songname": "Tell Me What You See",
+      "runtime": "2:37"
+    },
+    {
+      "slug": "help",
+      "songname": "I've Just Seen A Face",
+      "runtime": "2:05"
+    },
+    {
+      "slug": "help",
+      "songname": "Yesterday",
+      "runtime": "2:05"
+    },
+    {
+      "slug": "help",
+      "songname": "Dizzy Miss Lizzy",
+      "runtime": "2:56"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "Drive My Car",
+      "runtime": "2:28"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "Norwegian Wood (This Bird Has Flown)",
+      "runtime": "2:04"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "You Won't See Me",
+      "runtime": "3:19"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "Nowhere Man",
+      "runtime": "2:43"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "Think For Yourself",
+      "runtime": "2:18"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "The Word",
+      "runtime": "2:43"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "Michelle",
+      "runtime": "2:42"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "What Goes On",
+      "runtime": "2:48"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "Girl",
+      "runtime": "2:31"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "I'm Looking Through You",
+      "runtime": "2:26"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "In My Life",
+      "runtime": "2:26"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "Wait",
+      "runtime": "2:14"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "If I Needed Someone",
+      "runtime": "2:22"
+    },
+    {
+      "slug": "rubber-soul",
+      "songname": "Run For Your Life",
+      "runtime": "2:21"
+    },
+    {
+      "slug": "revolver",
+      "songname": "Taxman",
+      "runtime": "2:38"
+    },
+    {
+      "slug": "revolver",
+      "songname": "Eleanor Rigby",
+      "runtime": "2:06"
+    },
+    {
+      "slug": "revolver",
+      "songname": "I'm Only Sleeping",
+      "runtime": "3:00"
+    },
+    {
+      "slug": "revolver",
+      "songname": "Love You To",
+      "runtime": "2:59"
+    },
+    {
+      "slug": "revolver",
+      "songname": "Here, There And Everywhere",
+      "runtime": "2:24"
+    },
+    {
+      "slug": "revolver",
+      "songname": "Yellow Submarine",
+      "runtime": "2:38"
+    },
+    {
+      "slug": "revolver",
+      "songname": "She Said She Said",
+      "runtime": "2:36"
+    },
+    {
+      "slug": "revolver",
+      "songname": "Good Day Sunshine",
+      "runtime": "2:09"
+    },
+    {
+      "slug": "revolver",
+      "songname": "And Your Bird Can Sing",
+      "runtime": "2:00"
+    },
+    {
+      "slug": "revolver",
+      "songname": "For No One",
+      "runtime": "1:59"
+    },
+    {
+      "slug": "revolver",
+      "songname": "Doctor Robert",
+      "runtime": "2:14"
+    },
+    {
+      "slug": "revolver",
+      "songname": "I Want To Tell You",
+      "runtime": "2:27"
+    },
+    {
+      "slug": "revolver",
+      "songname": "Got To Get You Into My Life",
+      "runtime": "2:29"
+    },
+    {
+      "slug": "revolver",
+      "songname": "Tomorrow Never Knows",
+      "runtime": "2:59"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "Sgt. Pepper's Lonely Hearts Club Band",
+      "runtime": "2:02"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "With A Little Help From My Friends",
+      "runtime": "2:44"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "Lucy In The Sky With Diamonds",
+      "runtime": "3:28"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "Getting Better",
+      "runtime": "2:48"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "Fixing A Hole",
+      "runtime": "2:36"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "She's Leaving Home",
+      "runtime": "3:35"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "Being For The Benefit Of Mr. Kite!",
+      "runtime": "2:37"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "Within You Without You",
+      "runtime": "5:04"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "When I'm Sixty Four",
+      "runtime": "2:37"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "Lovely Rita",
+      "runtime": "2:42"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "Good Morning Good Morning",
+      "runtime": "2:41"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "Sgt. Pepper's Lonely Hearts Club Band - Reprise /",
+      "runtime": "1:19"
+    },
+    {
+      "slug": "sgt-peppers",
+      "songname": "A Day In The Life",
+      "runtime": "5:37"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "Magical Mystery Tour",
+      "runtime": "2:50"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "The Fool On The Hill",
+      "runtime": "2:59"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "Flying",
+      "runtime": "2:15"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "Blue Jay Way",
+      "runtime": "3:55"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "Your Mother Should Know",
+      "runtime": "2:28"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "I Am The Walrus",
+      "runtime": "4:35"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "Hello, Goodbye",
+      "runtime": "3:28"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "Strawberry Fields Forever",
+      "runtime": "4:07"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "Penny Lane",
+      "runtime": "3:00"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "Baby, You're A Rich Man",
+      "runtime": "3:01"
+    },
+    {
+      "slug": "magical-mystery-tour",
+      "songname": "All You Need Is Love",
+      "runtime": "3:50"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Back In The U.S.S.R.",
+      "runtime": "2:43"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Dear Prudence",
+      "runtime": "3:55"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Glass Onion",
+      "runtime": "2:17"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Ob-La-Di, Ob-La-Da",
+      "runtime": "3:08"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Wild Honey Pie",
+      "runtime": "0:52"
+    },
+    {
+      "slug": "white-album",
+      "songname": "The Continuing Story Of Bungalow Bill",
+      "runtime": "3:14"
+    },
+    {
+      "slug": "white-album",
+      "songname": "While My Guitar Gently Weeps",
+      "runtime": "4:45"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Happiness Is A Warm Gun",
+      "runtime": "2:44"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Martha My Dear",
+      "runtime": "2:28"
+    },
+    {
+      "slug": "white-album",
+      "songname": "I'm So Tired",
+      "runtime": "2:03"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Blackbird",
+      "runtime": "2:18"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Piggies",
+      "runtime": "2:04"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Rocky Raccoon",
+      "runtime": "3:33"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Don't Pass Me By",
+      "runtime": "3:50"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Why Don't We Do It In The Road?",
+      "runtime": "1:41"
+    },
+    {
+      "slug": "white-album",
+      "songname": "I Will",
+      "runtime": "1:45"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Julia",
+      "runtime": "2:56"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Birthday",
+      "runtime": "2:43"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Yer Blues",
+      "runtime": "4:00"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Mother Nature's Son",
+      "runtime": "2:48"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Everybody's Got Something To Hide Except Me And My Monkey",
+      "runtime": "2:24"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Sexy Sadie",
+      "runtime": "3:15"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Helter Skelter",
+      "runtime": "4:29"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Long, Long, Long",
+      "runtime": "3:06"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Revolution 1",
+      "runtime": "4:15"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Honey Pie",
+      "runtime": "2:41"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Savoy Truffle",
+      "runtime": "2:54"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Cry Baby Cry",
+      "runtime": "3:02"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Revolution 9",
+      "runtime": "8:22"
+    },
+    {
+      "slug": "white-album",
+      "songname": "Good Night",
+      "runtime": "3:13"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "Yellow Submarine",
+      "runtime": "2:39"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "Only A Northern Song",
+      "runtime": "3:24"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "All Together Now",
+      "runtime": "2:10"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "Hey Bulldog",
+      "runtime": "3:11"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "It's All Too Much",
+      "runtime": "6:25"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "All You Need Is Love",
+      "runtime": "3:51"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "Pepperland (George Martin)",
+      "runtime": "2:20"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "Sea Of Time (George Martin)",
+      "runtime": "3:00"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "Sea Of Holes (George Martin)",
+      "runtime": "2:16"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "Sea Of Monsters (George Martin)",
+      "runtime": "3:36"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "March Of The Meanies (George Martin)",
+      "runtime": "2:19"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "Pepperland Laid Waste (George Martin)",
+      "runtime": "2:12"
+    },
+    {
+      "slug": "yellow-submarine",
+      "songname": "Yellow Submarine In Pepperland (George Martin)",
+      "runtime": "2:14"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Come Together",
+      "runtime": "4:19"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Something",
+      "runtime": "3:02"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Maxwell's Silver Hammer",
+      "runtime": "3:27"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Oh! Darling",
+      "runtime": "3:27"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Octopus's Garden",
+      "runtime": "2:50"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "I Want You (She's So Heavy)",
+      "runtime": "7:47"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Here Comes The Sun",
+      "runtime": "3:05"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Because",
+      "runtime": "2:45"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "You Never Give Me Your Money",
+      "runtime": "4:02"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Sun King",
+      "runtime": "2:26"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Mean Mr Mustard",
+      "runtime": "1:06"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Polythene Pam",
+      "runtime": "1:12"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "She Came In Through The Bathroom Window",
+      "runtime": "1:58"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Golden Slumbers",
+      "runtime": "1:31"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Carry That Weight",
+      "runtime": "1:36"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "The End",
+      "runtime": "2:21"
+    },
+    {
+      "slug": "abbey-road",
+      "songname": "Her Majesty",
+      "runtime": "0:25"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "Two Of Us",
+      "runtime": "3:36"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "Dig A Pony",
+      "runtime": "3:55"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "Across The Universe",
+      "runtime": "3:48"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "I Me Mine",
+      "runtime": "2:25"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "Dig It",
+      "runtime": "0:50"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "Let It Be",
+      "runtime": "4:03"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "Maggie Mae",
+      "runtime": "0:40"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "I've Got A Feeling",
+      "runtime": "3:37"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "One After 909",
+      "runtime": "2:53"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "The Long And Winding Road",
+      "runtime": "3:38"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "For You Blue",
+      "runtime": "2:32"
+    },
+    {
+      "slug": "let-it-be",
+      "songname": "Get Back",
+      "runtime": "3:09"
+    }
+  ]
+}

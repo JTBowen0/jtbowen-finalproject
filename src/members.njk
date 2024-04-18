@@ -1,0 +1,27 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Members{% endblock %}
+
+{% block page_description %}The four Beatles{% endblock %}
+
+{% block content %}
+<article class="container">
+  <h1>Beatles Members</h1>
+  <p>Explore information about each member of the legendary Beatles.</p>
+  <div class="row row-cols-1 row-cols-md-2 g-4">
+    {% for member in members.members %}
+      <div class="col">
+        <div class="card h-100">
+          <img src="img/{{ member.image }}" class="card-img-top" alt="Photo of {{ member.name }}">
+          <div class="card-body">
+            <h4 class="card-title">{{ member.name }}</h4>
+            <p class="card-text"><strong>Instruments:</strong> {{ member.instruments }}</p>
+            <p class="card-text"><strong>Birthdate:</strong> {{ member.birthdate }}</p>
+            <p class="card-text"><strong>Lifespan:</strong> {{ member.lifespan }}</p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</article>
+{% endblock %}
