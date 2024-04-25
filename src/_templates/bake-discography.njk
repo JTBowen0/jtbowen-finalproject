@@ -1,0 +1,25 @@
+{% extends '_templates/base.njk' %}
+{% set relative_path = "../" %}
+{% from '_macros/prose.njk' import prose %}
+
+{% block page_title %}{{ headline }}{% endblock %}
+
+{% block page_description %}{{ headline }} by Capt. Crit McGillicutty{% endblock %}
+
+{% block content %}
+  <article class="container">
+    <h1 style="margin-bottom: 20px;"> {{ title }} </h1>
+    <div style="float: right; width: 50%;">
+      <img src="../img/{{ cover }}" class="img-fluid" alt="Photo of {{ cover }}" style="width: 100%; image-rendering: crisp-edges;">
+    </div>
+    <h3> {{ blurb }} </h3>
+    <div style="width: 50%;">
+      {% for song in members.songs %}
+      {% if song.slug == slug %}
+      {{ song.songname }} - {{ song.runtime }}
+      <hr>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </article>
+{% endblock %}

@@ -33,6 +33,13 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
+    },
+    {
+      "template": "bake-discography",
+      "data": "members",
+      "array": "discography",
+      "slug": "slug",
+      "path": "title"
     }
   ]
 }

@@ -6,8 +6,27 @@
   <div class="row">
     <div class="col">
       <h1>The Fab Four</h1>
-<p>In 19__, a quartet out of Liverpool, England released __, kicking off the output of arguably the most prolific and influential band of all time. The Beatles, comprised of John Lennon, Paul McCartney, George Harrison and Ringo Starr, dominated the 1960s, revolutionizing the genre of pop music, crossing global borders, and blazing new trails in audio recording.</p>
+<p>In October 1962, a quartet out of Liverpool, England released their debut single 'Love Me Do', kicking off the output of arguably the most prolific and influential band of all time. The Beatles, comprised of John Lennon, Paul McCartney, George Harrison and Ringo Starr, dominated the 1960s, revolutionizing the genre of pop music, crossing global borders, and blazing new trails in audio recording.</p>
     </div>
+  </div>
+    <h1>Beatles Members</h1>
+  <p>Explore information about each member of the legendary Beatles.</p>
+  <div class="row row-cols-1 row-cols-md-2 g-4">
+  {% for member in members.members %}
+      <div class="col">
+        <div class="card h-100">
+          <img src="img/{{ member.image }}" class="card-img-top" alt="Photo of {{ member.name }}">
+          <div class="card-body">
+            <h4 class="card-title">
+              <a href="/members/{{ member.name | lower | replace(" ", "-") }}">{{ member.name }}</a>
+            </h4>
+            <p class="card-text"><strong>Instruments:</strong> {{ member.instruments }}</p>
+            <p class="card-text"><strong>Birthdate:</strong> {{ member.birthdate }}</p>
+            <p class="card-text"><strong>Lifespan:</strong> {{ member.lifespan }}</p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
   </div>
 </div>
 {% endblock %}
