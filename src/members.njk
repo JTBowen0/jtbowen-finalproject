@@ -15,7 +15,7 @@
           <img src="img/{{ member.image }}" class="card-img-top" alt="Photo of {{ member.name }}">
           <div class="card-body">
             <h4 class="card-title">
-              <a href="/members/{{ member.name | lower | replace(" ", "-") }}">{{ member.name }}</a>
+              <a href="member/{{ member.slug }}.html">{{ member.name }}</a>
             </h4>
             <p class="card-text"><strong>Instruments:</strong> {{ member.instruments }}</p>
             <p class="card-text"><strong>Birthdate:</strong> {{ member.birthdate }}</p>
