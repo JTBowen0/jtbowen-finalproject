@@ -38,80 +38,92 @@
       "title": "Please Please Me",
       "slug": "please-please-me",
       "year": 1963,
-      "cover": "pleasepleaseme.png"
+      "cover": "ppm2.jpeg",
+      "blurb": "Following up on the head-turning success of the Beatles' debut single Love Me Do, Please Please Me marks the first studio release in what would become a legendary career. While sonically nothing that pushes the boundaries, Please Please Me is a good album, even if the audio quality leaves a bit to be desired over 60 years later. Still, the Beatles vaulted into global renown with this 14-song project, opening the floodgates to Beatlemania, the international craze surrounding the band for their first few years. No songs stand out as classics aside from maybe the closer, their cover of Twist And Shout, but regardless its an album of great significance."
     },
     {
       "title": "With the Beatles",
       "slug": "with-the-beatles",
       "year": 1963,
-      "cover": "withthebeatles.jpeg"
+      "cover": "wtb2.jpg",
+      "blurb": "The Beatles' second album features much of the same from their first, with little growth. All My Loving is a fun and bouncy track, and George Harrison's Don't Bother Me is cool as an early indicator towards the path he'll eventually split off on, but largely songs that follow the same doo-wop formula. Nothing bad, but not much to write home about, either. The world in 1963 would vehemently disagree."
     },
     {
       "title": "A Hard Day's Night",
       "slug": "a-hard-days-night",
       "year": 1964,
-      "cover": "aharddaysnight.jpeg"
+      "cover": "hdn2.jpeg",
+      "blurb": "A Hard Day's Night has an awesome opener in the title track, a saccharine cut in If I Fell, and the catchy Can't Buy Me Love, but on the whole, the record has a lot of songs that blur together. The soundtrack to the group's first film, the album is a lot of filler for a movie that features the Beatles kind of just... running around? Important to their development and no doubt squarely in their meteoric rise, but far from their best material."
     },
     {
       "title": "Beatles for Sale",
       "slug": "beatles-for-sale",
       "year": 1964,
-      "cover": "beatlesforsale.jpeg"
+      "cover": "beatlesforsale.jpeg",
+      "blurb": "In keeping with the theme for the first three Beatles albums, I find this to be another skippable album in venturing into the Beatles' discography. Many songs that sound relatively similar. Nothing awful, but compared to where they get just a year later it's hard to believe it's the same band. No Reply, Baby's In Black and Eight Days A Week are all solid tracks but there's not much I find myself coming back too."
     },
     {
       "title": "Help!",
       "slug": "help",
       "year": 1965,
-      "cover": "help.jpeg"
+      "cover": "help2.jpg",
+      "blurb": "Help! marks the Beatles starting to stray from the formulaic sound of the early sixties, but is still firmly there -- not that there's anything wrong with that. Help! is easily my favorite of the Beatles' early career releases, with its title track a classic, as well as Ticket To Ride and I've Just Seen A Face displaying that the Beatles are no one-trick pony. Constructed by a 23-year old Paul McCartney with the melody coming to him in a dream, Yesterday, the album's penultimate track, remains one of the band's most revered, a universal tune that blends sorrow with a simplistic and repetitive piano riff. Some great high points, a forgettable middle, but a big step in the right direction for the Beatles."
     },
     {
       "title": "Rubber Soul",
       "slug": "rubber-soul",
       "year": 1965,
-      "cover": "rubbersoul.jpeg"
+      "cover": "rs2.jpg",
+      "blurb": "For me where the Beatles really begin to find their sound, Rubber Soul is a great and much-needed turning point that sets the Beatles on a path towards not just stardom, which they already had, but greatness. Drive My Car is an homage to their original sound, but on the second track they show they're not messing around with Norwegian Wood, a hilarious and folksy tune from John about a missed opportunity with a girl. From there, they shine through with their early selves on tracks like You Won't See Me and The Word, but also kill it in evolutionary tracks like Nowhere Man, Michelle and I'm Looking Through You. Of course, In My Life stands the test of time as one of the most poignant and sentimental songs ever and my favorite cut from a huge step in the Beatles' discography."
     },
     {
       "title": "Revolver",
       "slug": "revolver",
       "year": 1966,
-      "cover": "revolver.jpeg"
+      "cover": "rev2.jpeg",
+      "blurb": "Reflecting the band's continued dive into narcotics, this time around LSD, Revolver stands as an innovative album and maybe the Beatles' first true classic. Revolver has it all, with Love You To's use of the sitar displaying George Harrison's infatuation with Indian culture, Paul's knack for beautiful and dreamy love songs in Here, There And Everywhere, John's slithering I'm Only Sleeping and And Your Bird Can Sing, a perfect pop song that clocks in at a neat two minutes, the project is stylistically-different but flows perfectly. Eleanor Rigby coming from a group of guys in their early twenties in the year 1966 is just unfathomable, and Tomorrow Never Knows is an excellent foray into experimental music from the boys. Terrific and worthy of all the praise."
     },
     {
       "title": "Sgt. Pepper's Lonely Hearts Club Band",
       "slug": "sgt-peppers",
       "year": 1967,
-      "cover": "sgtpeppers.jpg"
+      "cover": "sgt2.webp",
+      "blurb": "What is there to say that hasn't been said of Sgt. Pepper's? Sgt. Pepper's Lonely Hearts Clubs Band embodies grandiosity in its album cover and sound and rightfully holds the title for maybe the most influential of all time. Incorporating all flavors of music, the project is and was a cultural landmark in its widespread appeal. From its tacky-yet-effective opener to Day In The Life, inarguably one of the greatest songs of all time, the album sets an uncrossable bar in songwriting and composition throughout. Other standouts include Lucy In The Sky With Diamonds, the cute When I'm Sixty Four, and Getting Better, while not my favorite Beatles album, its an amazing record that defines the quartet."
     },
     {
       "title": "Magical Mystery Tour",
       "slug": "magical-mystery-tour",
       "year": 1967,
-      "cover": "magicalmysterytour.jpg"
+      "cover": "magicalmysterytour.jpg",
+      "blurb": "Magical Mystery Tour remains somewhat of an overlooked anomaly in the Beatles' anthology, following up in the footsteps of arguably their opus and at core a soundtrack for yet another film. However, in spite of the mixed reception it received, for my money Magical Mystery Tour is one of the Beatles' most complete records, delving into psychedelia and wackiness without sacrificing quality, especially the final half. The title track is forgettable, but The Fool On The Hill is a catchy Paul joint, and Flying is a neat instrumental work. Blue Jay Way marks prime weird John Lennon stuff in a great way, as does I Am The Walrus. From there Hello, Goodbye, Strawberry Fields Forever and Penny Lane is a contender for the best three-track run in any Beatles record, followed with great closers in Baby, You're A Rich Man and All You Need Is Love. While a bit all over the place, Magical Mystery Tour is an outstanding and underrated record for the Beatles."
     },
     {
       "title": "The Beatles (\"The White Album\")",
       "slug": "white-album",
       "year": 1968,
-      "cover": "whitealbum.jpeg",
-      "blurb": "Easily the Beatles' lengthiest and most eclectic album, the self-titled album, widely known as the White Album, stands as a divisive landmark in the Beatles history. Facing pressure to release a project despite internal strife and a mutual feeling of disbandment, the White Album shows the band pushing the envelope of the genre. With experimental tracks like Wild Honey Pie and Revolution 9 mixed with soulful ballads like Blackbird, the White Album offers a range of sounds, some beloved and some dismissed."
+      "cover": "white2.jpg",
+      "blurb": "Easily the Beatles' lengthiest and most diverse album, the self-titled album, widely known as the White Album, stands as a divisive landmark in the Beatles history. Facing pressure to release a project despite internal strife and a mutual feeling of fracture, the White Album shows the band pushing the envelope of popular music. With experimental tracks like Wild Honey Pie and Why Don't We Do It In The Road? mixed with soulful ballads like Blackbird, the White Album offers a range of sounds, some beloved and some dismissed. On the White Album, the fragmenting styles of each musician begin to show through: Paul McCartney's eclectic-yet-upbeat sound in Back In The U.S.S.R and I Will, George Harrison's desire for a bigger role in While My Guitar Gently Weeps, and John Lennon's icy Happiness Is A Warm Gun and relatable I'm So Tired. Not every song on the self-titled record will land for every listener but is has a lot to offer and sounds about three decades ahead of its time, especially in songs like Honey Pie and Revolution 9, and is an essential project of the Beatles."
     },
     {
       "title": "Yellow Submarine",
       "slug": "yellow-submarine",
       "year": 1969,
-      "cover": "yellowsubmarine.jpeg"
+      "cover": "ys2.webp",
+      "blurb": "Released as a soundtrack for an animated film of the same name, Yellow Submarine is hardly classified as meaningful in the Beatles' catalogue. Featuring just four new songs featuring the Fab Four, Yellow Submarine's back half consists of orchestral instrumentals scored by George Martin, often referred to as the Fifth Beatle. With Hey Bulldog standing out as the only memorable track with a catch piano riff, Yellow Submarine ranks lower in the Beatles' discography."
     },
     {
       "title": "Abbey Road",
       "slug": "abbey-road",
       "year": 1969,
-      "cover": "abbeyroad.jpeg"
+      "cover": "abbey2.jpg",
+      "blurb": "Roundly hailed, as one of the best albums ever recorded Abbey Road marks the Beatles' eleventh and final project recorded. From the jump, with a bluesy and driving opener Come Together, to George Harrison's seminal love song Something, Abbey Road is a near-perfect record stuffed with memorable moments from each Beatle. The iconic Here Comes the Sun contrasts the oblique and brooding growl of I Want You (She's So Heavy), giving way for a medley in the album's back half before closing with the aptly-titled The End. Abbey Road was an instant classic that marked four of the most talented musicians of all time at their apex stamping their legacy and revolutionized recording technology in its use of eight-track tape machines. Abbey Road is my favorite Beatles record and a must-listen for any and all."
     },
     {
       "title": "Let It Be",
       "slug": "let-it-be",
       "year": 1970,
-      "cover": "letitbe.jpeg"
+      "cover": "lib2.jpeg",
+      "blurb": "Largely assembled prior to the band's split in early 1970, Let It Be marks the twelfth and final album released by the Beatles. The recording process for the project spanned multiple years and was nothing if not arduous, with George Harrison temporarily leaving the group. However, it did come together (no pun intended) and for me, stands as a solid if not slightly disappointing farewell project for the band. Memorable tracks such as the gorgeously composed and written Across The Universe, lead single Get Back, and Dig A Pony stand out, but as a whole the project is far from their best effort sonically. The title track marks a sentimental and simple goodbye from Paul on an important album in the band's history and one greatly illuminated by the Get Back documentary released in 2021 that shows the album's recording."
     }
   ],
   "songs": [
