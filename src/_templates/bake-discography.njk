@@ -4,22 +4,23 @@
 
 {% block page_title %}{{ headline }}{% endblock %}
 
-{% block page_description %}{{ headline }} by Capt. Crit McGillicutty{% endblock %}
+{% block page_description %}{{ headline }} Discography {% endblock %}
 
 {% block content %}
-  <article class="container">
+<article class="container" style="display: flex; flex-wrap: wrap; max-width: 1200px; margin: auto;">
+  <div class="left-column" style="width: 50%; display: flex; flex-direction: column; margin-right: 20px;">
     <h1 style="margin-bottom: 20px;"> {{ title }} </h1>
-    <div style="float: right; width: 50%;">
-      <img src="../img/{{ cover }}" class="img-fluid" alt="Photo of {{ cover }}" style="width: 100%; image-rendering: crisp-edges;">
-    </div>
-    <h3> {{ blurb }} </h3>
-    <div style="width: 50%;">
-      {% for song in members.songs %}
-      {% if song.slug == slug %}
-      {{ song.songname }} - {{ song.runtime }}
-      <hr>
-      {% endif %}
-      {% endfor %}
-    </div>
-  </article>
+    <img src="../img/{{ cover }}" class="img-fluid" alt="Photo of {{ cover }}" style="width: 80%; image-rendering: crisp-edges; margin-bottom: 20px;">
+    <p style="font-size: 22px;">{{ blurb }}</p>
+  </div>
+  <div class="right-column" style="width: 40%; font-size: 16px; margin-left: 65px; margin-top: 20px;">
+    {% for song in members.songs %}
+    {% if song.slug == slug %}
+      <p>{{ song.songname }} - {{ song.runtime }}</p>
+      <hr style="margin-top: 3px; margin-bottom: 3px; margin-left: 20px;">
+    {% endif %}
+    {% endfor %}
+  </div>
+  <div style="clear: both;"></div>
+</article>
 {% endblock %}
