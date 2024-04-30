@@ -1,3 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <!-- A Intro to Coding for Journalists class project -->
+  <head>
+    <title>The Beatles | {% block page_title %}Default title{% endblock %}</title>
+    <meta name="description" content="{% block page_description %}Default description{% endblock %}">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="{{ relative_path }}css/main.css">
+  </head>
+{% extends '_templates/base.njk' %}
+{% set relative_path = "../" %}
+{% block page_title %}History{% endblock %}
+{% block page_description %}The story of the Beatles{% endblock %}
+{% block content %}
 <body>
   <div class="container">
     <h1>The story</h1>
@@ -5,4 +21,11 @@
     <img src="img/hamburg.webp" alt="The Beatles in Hamburg, 1960" class="img-fluid mb-4">
     <p>By 1962, the Beatles had signed a record deal with EMI and released their first single, 'Love Me Do'. The song was a hit, and the band's popularity began to grow. The Beatles' first album, 'Please Please Me', was released in 1963 and was a smash success.</p>
     <p>One of the pivotal moments that marked the Beatles' breakthrough into the American market and the peak of 'Beatlemania' came with their performance on The Ed Sullivan Show. On February 9, 1964, The Beatles made their first live American television appearance on the show, which was and remains one of the most watched television events in history. The broadcast drew an estimated 73 million viewers, which was about 34% of the American population at the time, and solidified them as a force to be reckoned with in the music industry.</p>
-  </div>
+  <img src="img/edsullivan.webp" alt="The Beatles on The Ed Sullivan Show, 1964" class="img-fluid mb-4">
+  <p>Under the management of Brian Epstein and the musical direction of producer George Martin, the Beatles not only pioneered countless techniques in recording but also incorporated diverse genres into their music, including classical, traditional Indian music, and psychedelic rock. Their innovative studio techniques and quality of their songwriting set new standards for all of rock music that followed.</p>
+  <p>The sudden death of Epstein in 1967 caused a rift in the group, leading to internal strife and an eventual break-up in 1970. The members pursued solo careers with varying degrees of commercial and critical success. Their split was marked by legal battles and much publicized personal conflict, which added to their legend and influence.</p>
+  <img src="img/rooftop.jpeg" alt="The Beatles' final performance on the rooftop of Apple Corps, 1969" class="img-fluid mb-4">
+  <p>Lennon was tragically murdered in 1980, and Harrison died of cancer in 2001. McCartney and Starr continue to perform and record music, and the Beatles' influence on popular music remains as strong as ever.</p>
+</div>
+</body>
+{% endblock %}
